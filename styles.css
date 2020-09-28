@@ -59,6 +59,10 @@ body {
     /* max-height: 10cm; */
     max-width: 10cm;
 }
+
+#capa {
+    margin-top: 2vh;
+}
 /*
 Add transition to containers so they can push in and out.
 */
@@ -104,7 +108,7 @@ The content `<div>` is where all your content goes.
      color: #333;
      text-align: center;
      padding: 0.5em 2em 0;
-     border-bottom: 1px solid rgb(54, 54, 54);
+     border-bottom: 1px solid rgb(155, 155, 155);
  }
     .header h1 {
         margin: 0 0;
